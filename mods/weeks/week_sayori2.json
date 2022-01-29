@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"endless",
+			"sayori",
+			[
+				255,
+				133,
+				153
+			]
+		],
+		[
+			"triple trouble",
+			"sayori",
+			[
+				255,
+				133,
+				153
+			]
+		],
+		[
+			"monochrome",
+			"sayorievil",
+			[
+				146,
+				193,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bonus Week",
+	"weekName": "Bonus Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

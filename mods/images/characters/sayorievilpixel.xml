@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sayorievilpixel.png"><SubTexture name="sayorievil down0000" x="1648" y="1986" width="848" height="987" frameX="-405" frameY="-28" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil down0001" x="3149" y="954" width="846" height="869" frameX="-405" frameY="-149" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0000" x="0" y="0" width="879" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0001" x="0" y="0" width="879" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0002" x="0" y="0" width="879" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0003" x="3149" y="0" width="879" height="954" frameX="-402" frameY="-70" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0004" x="3149" y="0" width="879" height="954" frameX="-402" frameY="-70" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil idle0005" x="3149" y="0" width="879" height="954" frameX="-402" frameY="-70" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil left0000" x="879" y="0" width="694" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil left0001" x="1573" y="0" width="694" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil left0002" x="0" y="993" width="694" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil right0000" x="694" y="993" width="861" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil right0001" x="2267" y="0" width="882" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil right0002" x="0" y="1986" width="912" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil up0000" x="2267" y="993" width="767" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="sayorievil up0001" x="912" y="1986" width="736" height="993" frameX="-405" frameY="-31" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

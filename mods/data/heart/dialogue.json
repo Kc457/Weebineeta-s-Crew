@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "This is test dialogue so I can learn how to add dialogue to the full mod release...  "
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how about... "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "GET YOUR PICKLE CHIN LOOKING HEAD A-"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAA-"
+		}
+	]
+}

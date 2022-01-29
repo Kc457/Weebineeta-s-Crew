@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dark assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dark down0000" x="0" y="0" width="423" height="771" pivotX="88.1" pivotY="51.05" frameX="0" frameY="-34" frameWidth="425" frameHeight="805"/>
+	<SubTexture name="dark down0001" x="423" y="0" width="409" height="756" frameX="-6" frameY="0" frameWidth="425" frameHeight="805"/>
+	<SubTexture name="dark down0002" x="832" y="0" width="340" height="676" frameX="-85" frameY="-76" frameWidth="425" frameHeight="805"/>
+	<SubTexture name="dark idle0000" x="1172" y="0" width="329" height="660" pivotX="82.15" pivotY="41.1" frameX="-82" frameY="-41" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0001" x="1172" y="0" width="329" height="660" frameX="-82" frameY="-41" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0002" x="1501" y="0" width="374" height="675" frameX="-57" frameY="-41" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0003" x="1501" y="0" width="374" height="675" frameX="-57" frameY="-41" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0004" x="1875" y="0" width="425" height="686" frameX="0" frameY="-33" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0005" x="1875" y="0" width="425" height="686" frameX="0" frameY="-33" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0006" x="2300" y="0" width="336" height="695" frameX="-85" frameY="0" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0007" x="2300" y="0" width="336" height="695" frameX="-85" frameY="0" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0008" x="2636" y="0" width="384" height="690" frameX="-45" frameY="-5" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark idle0009" x="2636" y="0" width="384" height="690" frameX="-45" frameY="-5" frameWidth="431" frameHeight="719"/>
+	<SubTexture name="dark left0000" x="3020" y="0" width="339" height="675" pivotX="118" pivotY="-1.4" frameX="-118" frameY="-25" frameWidth="469" frameHeight="708"/>
+	<SubTexture name="dark left0001" x="3359" y="0" width="370" height="706" frameX="-99" frameY="-2" frameWidth="469" frameHeight="708"/>
+	<SubTexture name="dark left0002" x="0" y="771" width="457" height="706" frameX="0" frameY="0" frameWidth="469" frameHeight="708"/>
+	<SubTexture name="dark right0000" x="457" y="771" width="357" height="656" pivotX="748.25" pivotY="0" frameX="-864" frameY="0" frameWidth="1263" frameHeight="949"/>
+	<SubTexture name="dark right0001" x="814" y="771" width="489" height="630" frameX="-748" frameY="0" frameWidth="1263" frameHeight="949"/>
+	<SubTexture name="dark right0002" x="1303" y="771" width="1263" height="947" frameX="0" frameY="-2" frameWidth="1263" frameHeight="949"/>
+	<SubTexture name="dark up0000" x="2566" y="771" width="409" height="778" pivotX="-4" pivotY="-1" frameX="0" frameY="-24" frameWidth="409" frameHeight="802"/>
+	<SubTexture name="dark up0001" x="2975" y="771" width="360" height="708" frameX="-36" frameY="-31" frameWidth="409" frameHeight="802"/>
+	<SubTexture name="dark up0002" x="3335" y="771" width="357" height="731" frameX="-50" frameY="0" frameWidth="409" frameHeight="802"/>
+</TextureAtlas>

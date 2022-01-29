@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"heart",
+			"sayori",
+			[
+				255,
+				133,
+				153
+			]
+		],
+		[
+			"woz",
+			"sayori",
+			[
+				255,
+				133,
+				153
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gamestore",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Gamestore owo",
+	"weekName": "Weeb Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

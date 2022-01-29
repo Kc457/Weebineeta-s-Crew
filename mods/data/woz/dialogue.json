@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "This test dialogue is here to see how to add dialogue without a cutscene..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how many times do i gotta tell you. "
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "get out. "
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "GET OUT,"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "NOWWWWWWWWWWWWWWWWWWWWWWWWW "
+		},
+		{
+			"speed": 0.02,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		}
+	]
+}
